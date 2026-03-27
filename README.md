@@ -1,2 +1,2 @@
 # hackart
-Tecnología Artesanal.
+Hackart.com
